@@ -286,7 +286,7 @@ FAB的动画很简单，跟上面的方法类似，但是feed卡片稍微复杂�
 
 英文原文：[Instagram with Material Design concept is getting real]
 
-中文翻译出处：http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0204/2415.html
+中文翻译出处：［http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0204/2415.html］
 
 *Author: [Miroslaw Stanek]*
 
