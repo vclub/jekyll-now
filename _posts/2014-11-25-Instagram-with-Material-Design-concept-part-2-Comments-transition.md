@@ -1,6 +1,6 @@
 ---
 layout: post
-title: InstaMaterial concept (part 2) - Comments window transition
+title: InstaMaterial 概念设计 (第二部分) - Feed 快捷菜单 - 评论界面的过度动画
 tags: [android, material design, ui, animations, layout]
 ---
 
