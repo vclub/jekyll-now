@@ -25,13 +25,9 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-<<<<<<< HEAD
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: vclub
-=======
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
->>>>>>> barryclark/master
+
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -57,12 +53,6 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
-<<<<<<< HEAD
-# markdown: redcarpet
-# highlighter: pygments
-=======
->>>>>>> barryclark/master
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
@@ -77,17 +67,6 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-   input: GFM
-   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-   syntax_highlighter: rouge
-   syntax_highlighter_opts:
-     # Use existing pygments syntax highlighting css
-     css_class: 'highlight'
-
 
 # Set the Sass partials directory, as we're using @imports
 sass:
