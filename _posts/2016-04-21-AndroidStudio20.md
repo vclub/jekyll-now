@@ -7,6 +7,7 @@ tags: [android studio 2.0 Instant Run]
 * Instant Run 只支持 `debug` 模式的编译，需要使用 Android Plugin for Gradle version 2.0.0 或更高，并且是API 21以上的设备。
 
 下面是网上有人提供的一种建议，通过开发分支，将`minSdkVersion`设置成21.
+
 ```
 android {
 productFlavors {
