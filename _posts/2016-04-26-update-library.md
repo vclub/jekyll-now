@@ -23,6 +23,7 @@ dependencies {
 应该是不用配置Progruad了。【我还没有验证，呵呵】
 
 之前绑定是使用`@Bind`，现在换成`@BindView`了，要自己指定类型了
+
 ```
 class ExampleActivity extends Activity {
   @BindString(R.string.title) String title;
@@ -34,6 +35,7 @@ class ExampleActivity extends Activity {
 ```
 
 Fragment的取消绑定的规则换了
+
 ```
 public class FancyFragment extends Fragment {
   @BindView(R.id.button1) Button button1;
@@ -64,6 +66,7 @@ dependencies {
 ```
 
 初始化代码有点小小的变化：
+
 ```
 Context context;
 OkHttpClient okHttpClient; // build on your own
